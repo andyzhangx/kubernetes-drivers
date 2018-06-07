@@ -1,3 +1,5 @@
+# Attention: this page is NOT maintained any more, FlexVolume driver and doc has been moved to [github.com/Azure/kubernetes-volume-drivers](https://github.com/Azure/kubernetes-volume-drivers/tree/master/flexvolume/dysk).
+
 # dysk FlexVolume driver for Kubernetes (Preview)
  - supported Kubernetes version: available from v1.7
  - supported agent OS: Linux 
