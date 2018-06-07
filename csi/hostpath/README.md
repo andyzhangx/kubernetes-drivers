@@ -1,3 +1,5 @@
+# Attention: this page is NOT maintained any more, CSI driver and doc has been moved to [github.com/Azure/kubernetes-volume-drivers](https://github.com/Azure/kubernetes-volume-drivers/tree/master/csi/hostpath).
+
 # hostpath CSI driver example
 
 ## Install hostpath CSI driver on a kubernetes cluster 
