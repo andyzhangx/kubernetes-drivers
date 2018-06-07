@@ -1,3 +1,5 @@
+# Attention: this page is NOT maintained any more, CSI driver and doc has been moved to [github.com/Azure/kubernetes-volume-drivers](https://github.com/Azure/kubernetes-volume-drivers/tree/master/csi/dysk).
+
 # dysk CSI driver for Kubernetes (Preview)
  - supported Kubernetes version: available from v1.10.0
  - supported agent OS: Linux 
