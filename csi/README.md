@@ -1,3 +1,5 @@
+# Attention: this page is NOT maintained any more, FlexVolume driver and doc has been moved to [github.com/Azure/kubernetes-volume-drivers](https://github.com/Azure/kubernetes-volume-drivers/tree/master/csi).
+
 # kubernetes CSI driver on Azure
 This directory contains all kubernetes [CSI](https://kubernetes-csi.github.io/docs/Home.html) drivers on azure
 
